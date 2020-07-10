@@ -1,4 +1,4 @@
-# ImageHeap REST API
+# ImageHeap REST API DOCS
 This is a rest api docs for ImageHeap web app.
 [Webapp URL](http://falconcoder-001-site1.gtempurl.com/)
 ## API Links
